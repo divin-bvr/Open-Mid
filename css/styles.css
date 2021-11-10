@@ -1,18 +1,18 @@
 body {
-    color: #0080ff;
+    color: #ffffff;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
 }
 h1 {
-    color: #66BFBF;
+    color: #d2a679;
     line-height: 2;
     font-size: 5.625rem;
     font-family:'Sacramento', cursive;
     margin: 50px auto 0 auto;
 }
 h2 {
-    color: #66BFBF;
+    color: #ccccff;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -33,7 +33,7 @@ hr {
     margin: 70px auto;
 }
 .top-container {
-    background-color:  #EAF6F6;
+    background-color: #000000;
 }
 
 .middle-container {
@@ -41,7 +41,7 @@ hr {
 }
 
 .bottom-container {
-    background-color: #66BFBF;
+    background-color: #000000;
     padding: 50px 0px 20px;
 }
 
